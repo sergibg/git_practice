@@ -1,5 +1,5 @@
 # Project Name
-> Here goes your awesome project description!
+> Here goes the awesome project description!
 
 ## Table of contents
 * [General info](#general-info)
@@ -47,4 +47,7 @@ Add here credits. Project inspired by..., based on...
 
 ## Contact
 Created by [@Sergibg](https://github.com/Sergibg/) - feel free to contact me!
-[Original Author of the **template**](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+
+See: [Original Author of the **template**](https://www.flynerd.pl/)
+
+[Guide:](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
