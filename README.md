@@ -18,7 +18,7 @@ Add more general information about project. What the purpose of the project is? 
 ### 1. First method: Markdown 
 `![img title](url)`
 in this case:
-`![Example screenshot](https://raw.githubusercontent.com/Sergibg/git_practice/alpha/GitHub.png "GitHub logo")`
+`![Example screenshot](https://raw.githubusercontent.com/Sergibg/git_practice/alpha/images/GitHub.png "GitHub logo")`
 ![Example screenshot](https://raw.githubusercontent.com/Sergibg/git_practice/alpha/images/GitHub.png "GitHub logo")
 #### 1.1 short url
 If the image is upload at the same folder:
