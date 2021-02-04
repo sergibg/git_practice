@@ -15,7 +15,13 @@
 Add more general information about project. What the purpose of the project is? Motivation?
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+### 1. First method: Markdown `![img title](url)`
+![Example screenshot](https://raw.githubusercontent.com/Sergibg/git_practice/alpha/GitHub.png "GitHub logo")
+
+### 2. Second method: html `<img src="url" width= x>` (width or height are optional)
+This method allows to **modify the image size**.
+
+<img src="https://raw.githubusercontent.com/Sergibg/git_practice/alpha/GitHub.png" width=200>
 
 ## Technologies
 * Tech 1 - version 1.0
@@ -48,6 +54,6 @@ Add here credits. Project inspired by..., based on...
 ## Contact
 Created by [@Sergibg](https://github.com/Sergibg/) - feel free to contact me!
 
-See: [Original Author of the **template**](https://www.flynerd.pl/)
+See the original [author](https://www.flynerd.pl/) of the **template**.
 
-[Guide:](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+Link to the [**guide**](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
